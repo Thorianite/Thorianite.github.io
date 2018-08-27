@@ -1,0 +1,146 @@
+BODY {margin:0;padding:0;background:#b0c4de;margin-top:0px;margin-left:0px;margin-right:0px;}
+A, BODY, INPUT, OPTION, SELECT, TABLE, TD, TR {color:Black;font-size:10pt;font-family:verdana;font-weight:normal;}
+
+H1 {color:#191970;font-size:14pt;font-weight:bold;font-family:Arial,Helvetica,sans-serif}
+
+H2 {color:#191970;font-size:13pt;font-weight:bold;font-family:Arial,Helvetica,sans-serif}
+H2 A{color:#191970;font-size:13pt;font-weight:bold;font-family:Arial,Helvetica,sans-serif;text-decoration:none !important;}
+H2 A:hover {text-decoration:underline !important;}
+
+H3 {color:#191970;font-size:11pt;font-weight:bold;font-family:Arial,Helvetica,sans-serif}
+
+.regText {background:#f5f5dc;color:Black;font-size:9pt;font-family:verdana;font-weight:normal;}
+.regText A {color:#191970;text-decoration:underline;}
+.regText A:link {color:#191970;text-decoration:underline;}
+.regText A:active {color:#191970;text-decoration:none;}
+.regText A:hover {color:#b22222;text-decoration:underline;}
+
+.regTextAlt {background:#b0c4de;color:Black;font-size:9pt;font-family:verdana;font-weight:normal;}
+.regTextAlt2 {background:#FFCD34;color:Black;font-size:9pt;font-family:verdana;font-weight:normal;}
+
+.errorText {color:#8b0000;font-size:8pt;font-family:verdana;font-weight:bold;}
+.color1_bg {background:#b0c4de;}
+.color2_bg {background:#191970;}
+.body_bg {background:#191970;}
+.headline {margin:0pt 0pt 0pt 0pt;padding:0pt 0pt 0pt 0pt;border-width:1pt;border-color:#b0c4de;border-style:solid;}
+
+.headlineText {background:#191970;color:#f5f5dc;font-size:13pt;font-weight:bold;font-family:verdana;}
+.headlineText A {color:#f5f5dc;text-decoration:underline;}
+.headlineText_alt {background:#FFCD34;}
+
+.headlineMedText {background:#191970;color:#f5f5dc;font-size:12pt;font-weight:bold;font-family:verdana;}
+.headlineMedText A {color:#f5f5dc;text-decoration:underline;}
+
+.headlineMedText_alt {background:#FFCD34;color:Black;font-size:12pt;font-weight:bold;font-family:verdana;}
+.headlineMedText_alt A {color:Black;text-decoration:underline;}
+
+
+.headlineSmText {background:#191970;color:#f5f5dc;font-size:10pt;font-weight:bold;font-family:verdana;}
+.headlineSmText A {color:#f5f5dc;text-decoration:underline;}
+
+.headlineSmText_alt {background:#FFCD34;color:Black;font-size:10pt;font-weight:bold;font-family:verdana;}
+.headlineSmText_alt A {color:#f5f5dc;text-decoration:underline;}
+
+.smButton {border-top:1px solid AliceBlue;border-bottom:1px solid #191970;border-right:1px solid #191970;border-left:1px solid AliceBlue;cursor:hand;color:#191970;background:#b0c4de;height:24px;text-decoration:none;font-weight:normal;font-size:8pt;font-family:verdana;vertical-align:middle;}
+.menuTopBottom {color:#f5f5dc;font-size:8pt;font-family:verdana;font-weight:bold;border-style:none;}
+.menuTopBottom A {color:#f5f5dc;text-decoration:none;border-style:none;}
+.menuTopBottom A:hover {color:#ff8c00;text-decoration:underline;border-style:none;}
+
+.menu {background:#191970;}
+
+.menuHeader, .menuHeader_Current {padding:1px;border:1px solid #b0c4de;}
+.menuHeader DIV{background-image:url(/images/_menubkg_left3.png);background-attachment:fixed;background-color:#b0c4de;background-repeat:repeat-y;color:#f5f5dc;font-size:8pt;font-family:verdana;font-weight:bold;}
+.menuHeader DIV A{color:#f5f5dc;text-decoration:none;font-size:8pt;font-family:verdana;font-weight:bolder;}
+.menuHeader DIV A:hover{color:#ff8c00;text-decoration:underline;}
+.menuHeader DIV A:visited{text-decoration:none;}
+.menuHeader_Current DIV{background-image:url(/images/_menubkg_left3.png);background-attachment:fixed;background-color:#b0c4de;background-repeat:repeat-y;color:#ff8c00;font-size:8pt;font-family:verdana;font-weight:bolder;}
+.menuItem {background:#191970;color:#f0f8ff;font-size:8pt;font-weight:normal;font-family:verdana;}
+.menuItem_Current {color:#ff8c00;font-size:8pt;font-family:verdana;font-weight:normal;}
+.menuItem A {color:#f0f8ff;text-decoration:none;}
+.menuItem A:hover {color:#ff8c00;text-decoration:underline;}
+
+
+.menuFooter {color:#f5f5dc;font-size:7pt;font-family:verdana;font-weight:bold;}
+.menuFooter A {color:#f5f5dc;text-decoration:none;}
+.menuFooter A:hover {color:#ff8c00;text-decoration:underline;}
+
+.footer3, .footer3 A{font-size:8pt;font-weight:normal;}
+
+.calselday {background:#b22222;}
+.caleventcurmo {background:#b0c4de;}
+.caleventothmo {background:DimGray;}
+.calothmo {background:Gainsboro;}
+
+.rptHeader {background:#191970;color:#f5f5dc;font-size:9pt;font-weight:bold;font-family:verdana;}
+.rptFooter {background:#191970;color:#f5f5dc;font-size:9pt;font-weight:bold;font-family:verdana;}
+.rptGrpHeader {background:Gainsboro;color:Black;font-size:8pt;font-weight:normal;font-family:verdana;}
+.rptDetail {background:#f5f5dc;color:Black;font-size:8pt;font-family:verdana;font-weight:normal;}
+.rptDetailAlt {background:#b0c4de;color:Black;font-size:8pt;font-family:verdana;font-weight:normal;}
+
+
+
+.specialheader{color:#f5f5dc;font-size:13pt;font-weight:bold;font-family:verdana;}
+.specialhr{border: 1px solid #b0c4de;}
+.contentheader{color:#191970;font-size:14pt;font-family:verdana;font-weight:bold;}
+.content{font-size:9pt;}
+.pageHeader{color: #191970;font-size: 13pt;font-weight:bold;font-family:arial}
+.tableborder{border: 1px solid #191970;}
+.tableheader{background-color:#b0c4de;color:#191970;font-weight:bold;text-align:right;}
+.tableheader_lg{background-color:#b0c4de;color:#191970;font-weight:bold;text-align:left;font-size:13pt;}
+.insideborder{border: 1px solid #b0c4de;padding: 5px;}
+
+.bronze {background-color: #fbddd5; width:75px;text-align:center;}
+.silver {background-color: #e6f2ea; width:75px;text-align:center;}
+.gold {background-color:#f2f1a4; width:75px;text-align:center;}
+
+
+.bronze_hd{color:#daa520;font-weight:bold;text-align:left;font-size:13pt;}
+.silver_hd{color:#a9a9a9;font-weight:bold;text-align:left;font-size:13pt;}
+.gold_hd{color:#ffd700;font-weight:bold;text-align:left;font-size:13pt;}
+
+
+
+.upgrades {background-color:#f2f1a4; width:75px;text-align:left;font-weight:bold}
+.upgrades_#ffd700{background-color:#f2f1a4; text-align:center;font-weight:bold; border-top: 1px solid #191970; border-bottom: 1px solid #191970;}
+
+.inputfield { background-color: #FFFFFF;}
+
+#popup { display:inline;  }
+#popup a, #popup a:visited {position:relative;display:inline;text-align:right;padding: 0 5px;margin: 0;border:1px solid #666;text-decoration: none;font-size: 0.9em;	color: #000;background: #eee;}
+#popup a span {display: none;}
+#popup a:hover {color: #f00;text-decoration: none;border: 1px solid #191970;}
+#popup a:hover span{display: block;position: absolute;top: -10px;left: 20px;width: 250px;margin: 0px;color: #000;background: url(/images/grey_background_gradient.png) white repeat-x;text-align: left;border: 1px solid #191970;}
+
+#popup a:hover span div { text-align:center;background:#b0c4de;color:#191970;font-weight:bold}
+
+.priceperplayer {text-align:center; font-weight:bold;font-size: 65pt; color:red;font-family:arial; }
+.priceperplayer_sm {text-align:center; font-weight:bold;font-size: 52pt; color:red;font-family:arial; }
+.priceperplayer_xsm {text-align:center; font-weight:bold;font-size: 42pt; color:red;font-family:arial; }
+
+
+.priceperteam {text-align:center; font-weight:bold;font-size: 12pt; color:red;font-family:arial; }
+
+
+.featurelist LI{ list-style-image: url(/images/dot_red.gif); padding-top:0px;margin-top:3px;padding-bottom:0;margin-bottom:3;}
+.featurelist { list-style-type: none;padding-top:0px;margin-top:0px;padding-bottom:2;margin-bottom:0;}
+.featurelist UL { list-style-type: none; list-style-image:none;}
+
+.feature .featurelist A{ text-decoration:underline;font-weight:normal;}
+.feature .featurelist A:hover{ text-decoration:underline;font-weight:normal;}
+
+.feature .featurelist{margin-left:0px;padding-left:15px;}
+
+
+.teamofmonth{border: 1px solid #191970;margin-right:5px;font-size:.85em;width:200px;background:#eeeeee;}
+.teamofmonth A{font-size:.85em;}
+
+.teamofmonth .regText{background:none;}
+
+.inside_box {border: 1px solid #191970;margin:5px;font-size:12px;background:#eeeeee;font-family:verdana;}
+.inside_box P {font-size:12px;margin:0;font-family:verdana;}
+.inside_box P A:hover{color:#3E71B5;}
+.inside_box H2 {color:#000000;} 
+
+.inside_box H3 {color:#3E71B5;font-weight:bold;text-align:left;margin:5px 0 5px 0;padding:0px;}
+.inside_box H3 A{color:#3E71B5 !important;font-size:11pt;font-weight:bold;text-decoration:none !important;}
+.inside_box H3 A:hover{text-decoration:underline !important; color:#3E71B5 !important;}
